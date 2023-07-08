@@ -18,4 +18,5 @@ This project has the following contents
 
 ## Description    
 The main goal of this data analysis is to optimize marketing expenses of the given online retail store, Yandesh.Afisha. The marketing department requested data analyst to find where they need to invest more for marketing advertisement so that store generates higher revenue. Data collection is done on products, sales, and marketing expenses from June 2017 through May 2018. I did cohort analysis on segment of marketing, sales, and product. The metric values of products, sales, and marketing is used to analyze which platforms/sources need to have more marketing investment. Metrices such as , retention rate, retention of investment(ROI), and lifetime value(LTV) are calculated.    
+
 Finally, conclusion is made on which platforms/sources the marketing investment need to be increased. If a source/platform has less ROI, then that source/platform needs to get more marketing investment. By increasing marketing investment on that sector the ROI could be high in that sector in coming years.
